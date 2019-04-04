@@ -1,0 +1,26 @@
+﻿it has recently been shown that craf is essential for kras g12d - induced nsclc .
+it has recently been shown that craf is not essential for kras g12d - induced nsclc .
+furthermore , transiently expressed exogenous lats2 is localized to centrosomes .
+furthermore , transiently expressed exogenous lats2 is not localized to centrosomes .
+mir - 223 does seems to be a target molecule of tfs regulating granulopoiesis .
+mir - 223 does not seem to be a target molecule of tfs regulating granulopoiesis .
+in myelopoiesis , mir - 223 has been shown to regulate granulocyte development in both humans and mice .
+in myelopoiesis , mir - 223 has been shown to not regulate granulocyte development in both humans and mice .
+rip1 was reported to interact with rip3 .
+rip1 was reported not to interact with rip3 .
+this form of necrosis , also termed necroptosis , requires the activity of receptor - interacting protein kinase 1 ( rip1 ) and its related kinase , rip3
+this form of necrosis , also termed necroptosis , does not require the activity of receptor - interacting protein kinase 1 ( rip1 ) and its related kinase , rip3
+oncogenic kras mutations are common in cancer .
+oncogenic kras mutations are not common in cancer .
+recently , it was shown that gata2 fulfills such role in mutant kras induced nsclc .
+recently , it was shown that gata2 does not fulfill such role in mutant kras induced nsclc .
+necrotic death was augmented when caspase activities were compromised by either viral or chemical inhibitors .
+necrotic death was not augmented when caspase activities were compromised by either viral or chemical inhibitors .
+moreover , other reports have also shown that necroptosis could be induced via modulating rip1 and rip3 .
+moreover , other reports have also shown that necroptosis could not be induced via modulating rip1 or rip3 .
+the recent reports demonstrated that the first eight nucleotides of the 5 ′ end of mirna could correlate with the efficient translational repression .
+the recent reports demonstrated that the first eight nucleotides of the 5 ′ end of mirna could not correlate with the efficient translational repression .
+importantly , rnai knockdown of gfpt1 reduced overall o - glcnacylation and blocked krasg12da - mediated tumor growth in vitro and in vivo .
+importantly , rnai knockdown of gfpt1 did not reduce overall o - glcnacylation and blocked krasg12da - mediated tumor growth in vitro or in vivo .
+the expression of mir - 146a has been found to be up - regulated in cervical cancer .
+the expression of mir - 146a has not been found to be up - regulated in cervical cancer .

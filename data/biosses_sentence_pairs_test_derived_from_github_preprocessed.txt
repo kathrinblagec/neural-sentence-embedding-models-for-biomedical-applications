@@ -1,0 +1,200 @@
+it has recently been shown that craf is essential for kras g12d - induced nsclc .
+it has recently become evident that craf is essential for the onset of kras - driven non - small cell lung cancer .
+the bcl - 2 inhibitor abt - 737 induces regression of solid tumors and its derivatives are in the early clinical phase as cancer therapeutics ; however , it targets bcl - 2 , bcl - xl , and bcl - w , but not mcl - 1 , which induces resistance against apoptotic cell death triggered by abt - 737 .
+recently , it has been reported that abt - 737 is not cytotoxic to all tumors cells , and that chemoresistance to abt - 737 is dependent on appreciable levels of mcl - 1 expression , the one bcl - 2 family member it does not effectively inhibit .
+previous studies demonstrated that the decrease level of 5 hmc in tumors was due to the reduced expression of tet1/2/3 and idh2 genes or tumor derived idh1 and idh2 mutations .
+in addition , genetic and functional studies suggest that neomorphic idh mutations contribute to myeloid transformation , at least in part , by inhibiting tet enzymatic function .
+more recently , idh mutations and resultant 2 - hydroxyglutarate ( 2hg ) production in leukemia cells were reported to induce global dna hypermethylation through impaired tet2 catalytic function .
+it has also been recently reported that mutations of the isocitrate dehydrogenase genes idh1 and idh2 can lead to the aberrant production of 2 - hydroxyglutarate ( 2 - hg ) , a metabolite that inhibits tet2 enzymatic activity , resulting in a hypermethylated promoter phenotype in acute myeloid leukemia ( aml ) tumors carrying idh1/2 mutations .
+recent in vitro studies using shrna - based approaches have suggested a role for tet2 in regulating myeloid differentiation and in regulating stem/progenitor cell proliferation .
+two recent studies used rnai - mediated tet2 knock - down in vitro to suggest that tet2 depletion led to impaired hematopoietic differentiation and to preferential myeloid commitment .
+recently , it was reported that expression of idh1r132h suppresses tet2 activity and the mutations of idh1 and idh2 genes occur in a mutual exclusive manner with that of tet2 gene in aml .
+this large - scale study showed that idh1/idh2 mutations were mutually exclusive with inactivating tet2 mutations , suggesting that the two types of mutations had similar effects and were thus functionally redundant .
+recently , it was reported that expression of idh1r132h suppresses tet2 activity and the mutations of idh1 and idh2 genes occur in a mutual exclusive manner with that of tet2 gene in aml
+the mechanism was clarified by yet another genomic survey , this time involving acute myelogenous leukemia ( aml ) .
+expression of an activated form of ras proteins can induce senescence in some primary fibroblasts .
+when expressed alone in primary cells however , oncogenic ras induces premature senescence , a putative tumour suppressor mechanism to protect from uncontrolled proliferation .
+a high percentage of tumor cells that take on immortalized characteristics show telomerase activity and it has been suggested that htert expression may be one of the six key events common to cancer .
+as a serine/threonine protein kinase , akt functions by phosphorylating key intermediate signaling molecules , leading to increased cell metabolism , cell growth , cell survival , and cell invasiveness  -  -  all hallmarks of cancer .
+in view of the evidence that many tumors occurring in nature arise from the selection of cells with genetic and/or epigenetic changes .
+the phenomena of neoplastic development and neoplastic transformation , whether they occur in vivo or in vitro , are thought to represent the accumulation of a series of genetic and epigenetic alterations that disrupt the normal processes of cell division and tissue integrity .
+the phenomena of neoplastic development and neoplastic transformation , whether they occur in vivo or in vitro , are thought to represent the accumulation of a series of genetic and epigenetic alterations that disrupt the normal processes of cell division and tissue integrity .
+neoplastic development represents cumulative genetic and epigenetic events leading to the emergence of cells that can attain a tumorigenic phenotype .
+tumorigenesis is a multistage process that involves multiple cell types .
+previous studies have suggested a number of hallmark functions that need to be acquired for a cancer to generate , helping researchers understand the complexity in tumor progression in a way of logical , scientific manner .
+furthermore , transiently expressed exogenous lats2 is localized to centrosomes .
+lats1 and lats2 have been detected on interphase and mitotic centrosomes
+since in s. cerevisiae dbf2 was shown to be associated with anaphase and/or telophase progression , we examined whether the deletion of the kinase would also affect cell cycle progression in n. crassa
+taking into consideration the role that dbf2 homologs have been shown to play in cell cycle progression , predominant localization of dbf - 2 in n.crassa is expected .
+several computational target prediction approaches , such as targetscan , pictar , miranda , pita , diana - microt and rnahybrid , have been developed to predict target genes .
+three programs , pictar , miranda , and targetscan , were used to predict the targets of mir - 21 .
+several lines of evidence suggest that the known principal rb pathway lesions in human tumors act in a mutual exclusive manner .
+in individual human tumor specimens , these principal components of the pathway  -  -  rb - cdk4 / 6 - p16ink4a  -  -  are reported to be targeted in a mutually exclusive manner .
+the retinoblastoma protein , prb , was among the first recognized tumor suppressor proteins , and loss or repression of prb function is thought to play a causative role in most human cancers .
+mutation of the retinoblastoma tumor susceptibility gene ( rb1 ) is the rate - limiting step in the genesis of retinoblastoma and over 90 % of human tumors exhibit reduced prb function .
+for example , loss of , or functional alterations in , the two major tumor suppressor proteins prb and p53 cause an up - regulation of ribosome biogenesis in cancer tissues .
+e2f1 stabilizes p53 by inducing the expression of p19 ( p14 ) / arf , an inhibitor of the mdm2 ubiquitin ligase that targets p53 for proteolysis .
+recently , mir - 126 was identified as a metastasis suppressing mirna that is downregulated in relapsing breast cancer , leukemia , and cervical cancer .
+subsequent reports showed that mir - 126 targeted the oncogene irs - 1 ( insulin receptor substrate - 1 ) in breast cancer cells and mir - 126 was downregulated in cervical cancer .
+recently , mir - 126 was identified as a metastasis suppressing mirna that is downregulated in relapsing breast cancer , leukemia , and cervical cancer .
+mir - 155 is upregulated in several human tumors , such as chronic lymphocytic leukemia , melanoma , head and neck squamous cell carcinoma , clear - cell kidney cancer , hepatocellular carcinoma , lymphoma , thyroid carcinoma ] , breast cancer , colon cancer , cervical cancer , pancreatic cancer , and lung cancer .
+up - regulation of mir - 24 has been observed in a number of cancers , including oscc .
+in addition , mir - 24 is one of the most abundant mirnas in cervical cancer cells , and is reportedly up - regulated in solid stomach cancers .
+mir - 223 seems to be a target molecule of tfs regulating granulopoiesis .
+feedback loops in which a mirna - regulated transcription factor regulates the transcription of its cognate mirna have been described in a number of animals .
+furthermore , a very recent study demonstrated the mechanism that specifies myeloid expression of mir - 223 and proposed a unique `` minicircuitry '' comprised of mir - 223 and transcription factors , nfi - a and caat enhancer - binding protein α ( c/ebp α )
+mir - 223 regulates granulopoiesis by a feedback mechanism and is modulated competitively by the transcription factors nuclear factor i/a ( nfi - a ) and ccaat/enhancer binding protein - α ( c/ebp α ) .
+mir - 223 regulates granulopoiesis by a feedback mechanism and is modulated competitively by the transcription factors nuclear factor i/a ( nfi - a ) and ccaat/enhancer binding protein - α ( c/ebp α )
+there is growing evidence from animal systems that mirna - regulated transcription factors frequently regulate the transcription of their cognate mirnas .
+in myelopoiesis , mir - 223 has been shown to regulate granulocyte development in both humans and mice .
+as shown previously , mir - 223 is highly conserved , and its myeloid - specific expression is also well characterized in both human and mouse
+to clarify the roles of mirnas in erythropoiesis , four mirnas were selected ( mir - 155 , mir - 221 , mir - 223 , and mir - 451 ) because their expression seems to be relevant to hematopoiesis .
+in myelopoiesis , mir - 223 has been shown to regulate granulocyte development in both humans and mice .
+we then sought to reassess the regulation of mir - 223 in the exactly same experimental system adopted in the previous work
+importantly , our reassessment revealed that this conserved promoter is probably active in the induction of mir - 223 during all - trans retinoic acid ( atra )  -  induced differentiation of the apl cell line , nb4 cells , which is the main experimental system adopted in the previous study
+unique segments of homologous sequences in rip1 and rip3 ( rip homotypic interaction motifs , rhims ) were shown to mediate their interaction
+rip1 was reported to interact with rip3 .
+this form of necrosis , also termed necroptosis , requires the activity of receptor - interacting protein kinase 1 ( rip1 ) and its related kinase , rip3
+tnf - mediated programmed necrosis typically involves the receptor - interacting serine - threonine kinases 1 and 3 ( rip1 and rip3 ) , as evidenced in human , mouse , and zebrafish cell lines , as well as in a murine sepsis model
+this form of necrosis , also termed necroptosis , requires the activity of receptor - interacting protein kinase 1 ( rip1 ) and its related kinase , rip3
+moreover , other reports have also shown that necroptosis could be induced via modulating rip1 and rip3 .
+furthermore , ablation of both erk1 and erk2 impaired tumor development , whereas inactivation of either one alone had no effect .
+only concomitant ablation of erk1 and erk2 impairs tumor growth .
+importantly , the role of erk phosphorylation in kras - driven nsclcs has been recently highlighted by the demonstration that erk activity is essential for kras - driven lung tumorigenesis .
+as mentioned above , high erk activity is crucial for the development of kras - driven nsclcs .
+lung tumour formation in mice by oncogenic kras requires craf , but not braf .
+the oncogenic activity of mutant kras appears dependent on functional craf but not on braf .
+the oncogenic activity of mutant kras appears dependent on functional craf , but not on braf
+notably , c - raf has recently been found essential for development of k - ras - driven nsclcs
+the oncogenic activity of mutant kras appears dependent on functional craf .
+oncogenic kras mutations are common in cancer .
+baf53 and β - actin subunits have been implicated in mammalian swi/snf - regulated binding to the chromatin/nuclear matrix .
+in addition , arp4 - related baf53 and β - actin are components of the human swi/snf complex and could play a role in its signal - regulated binding to the chromatin/nuclear matrix
+the mammalian arp , baf53 ( brg - associated factor ) , and β - actin were initially found as components of the mammalian swi/snf - like baf chromatin - remodeling complex .
+in addition , arp4 - related baf53 and β - actin are components of the human swi/snf complex and could play a role in its signal - regulated binding to the chromatin/nuclear matrix
+all known gefs reconfigure the nucleotide - binding pocket , often opening it by rearranging the switch regions .
+a characteristic of gefs is their strong preference for binding nucleotide - free over nucleotide - loaded gtpases .
+in eukaryotic cells , small g - proteins are critically regulated by guanine nucleotide exchange factors ( gefs ) and gtpase activating proteins ( gaps ) .
+eukaryotic small g - proteins are often controlled through the balancing actions of gaps and gefs .
+in a previous study in a mouse model of kras - dependent pancreatic ductal adenocarcinoma , it was shown that oncogenic kras induces nucleotide biosynthesis largely through the enhancement of the nonoxidative branch of the ppp .
+previous results showed that oncogenic ras elevates ribonucleotide synthesis largely through the nonoxidative branch of the ppp .
+importantly , rnai knockdown of gfpt1 reduced overall o - glcnacylation and blocked krasg12da - mediated tumor growth in vitro and in vivo .
+gfpt1 is the rate - limiting enzyme in the hbp and it has been identified as an important contributor to kras - driven pancreatic ductal adenocarcinoma ( pdac )
+we , and others , have recently described the inducible - kras * p53 + / − ( ikras * p53 + / − ) mouse model of pancreatic cancer , that allows tissue - specific , inducible and reversible expression of mutant kras in combination with a loss of function allele of the tumor suppressor p53 .
+there is a certain variability in these findings : for instance , metastatic potential has been described by other groups using kc or ikras * mice combined with loss of function allele of p53 .
+the overall accuracy of our gene expression classifier was ~ 88 % , and all t - all , tel - aml1 - positive , hyperdiploid and e2a - rearranged cases were correctly classified ( i.e. , 100 % sensitivity ) which resembled the data previously reported using other strategies for probe set selection and classifier construction .
+a gene that warrants further studies is the erythropoietin receptor that is 7.4 - fold higher expressed in tel - aml1 - positive cases compared to other precursor b - all cases confirming other gene expression classification studies .
+a gene that warrants further studies is the erythropoietin receptor that is 7.4 - fold higher expressed in tel - aml1 - positive cases compared to other precursor b - all cases confirming other gene expression classification studies .
+another recent gene expression study of large numbers of cases provided support for the hypothesis that distinct leukemias are specified by each of the unique chromosomal abnormalities found in lymphoblastic leukemias .
+mll - fkbp and mll - af9 transformed cells showed persistent expression of hox a7 and hox a9 as well as the hox cofactor meis 1 .
+regardless of the mechanism for transcriptional activation , increasing data suggest that hox a7 , hox a9 , and meis1 are pivotal targets for mll fusion protein - mediated transformation .
+these findings were identical to the pattern of expression seen in human acute lymphoid and myeloid leukemias with mll rearrangements .
+these genes are consistently expressed in leukemias with mll rearrangements .
+mir - vec constructs were described before , and dnd1 open - reading frames were cloned as described into a pcs2 - based cmv expression vector to contain a double carboxy - terminal ha tag .
+the pmscv - blast - mir plasmids , containing either hsa - mir - 376a1 human mirna or control mirna ( htr - human telomerase rna ) , were constructed as described previously .
+for sox11 repression by mir - 204 , neuro - 2a cells ( atcc ) were grown on coverslips in 24 - well plates for 24 h and then co - transfected with 500 ng of pcag - gfp expression plasmid and either 500 ng of scrambled - mirvec or mir - 204 - mirvec expression plasmid containing the pre - mirna of mir - 204
+co - transfection of mirvec - mir - 204 and the renilla - 3 ′ utr plasmid was in hek293t cells with transit - lt1 transfection reagent ( mirus )
+consequently mirnas have been demonstrated to act either as oncogenes ( e.g. , mir - 155 , mir - 17 − 5p and mir - 21 ) or tumor suppressors ( e.g. , mir - 34 , mir - 15a , mir - 16 − 1 and let - 7 )
+the extent to which mirnas specifically affect metastasis remains unclear , as all the mirnas reported to affect metastasis also exert potentially confounding influences on primary tumor development , apoptosis , and/or cell proliferation
+consequently mirnas have been demonstrated to act either as oncogenes ( e.g. , mir - 155 , mir - 17 − 5p and mir - 21 ) or tumor suppressors ( e.g. , mir - 34 , mir - 15a , mir - 16 − 1 and let - 7 )
+given the extensive involvement of mirna in physiology , dysregulation of mirna expression can be associated with cancer pathobiology including oncogenesis , proliferation , epithelial - mesenchymal transition , metastasis , aberrations in metabolism , and angiogenesis , among others
+in many tumors , there is either overexpression of so - called oncogenic mirnas ( e.g. , mir - 155 , mir - 17 − 5p and mir - 21 ) or downregulation of tumor suppressor mirnas ( e.g. , mir - 34 , mir - 15a , mir - 16 − 1 and let - 7 )
+mir - 373 had been previously identified as a potential oncogene ( together with mir - 372 ) in testicular germ - cell tumors , although it has been proposed that the prometastatic and the oncogenic properties of this mirna are due to the regulation of different genes ( cd44 and lats2 , respectively )
+to directly measure the effect of endogenous dnd1 on the activity of endogenous mir - 372 family , we used sensor molecules containing the luciferase gene under the control of either wild - type lats2 - 3 ′ utr or a mutant in the 372 target sites
+the 3 ′ utrs of p27 and connexin - 43 were pcr amplified from genomic dna and cloned into pgl3 ( promega ) downstream of the luciferase gene ; constructs bearing the lats2 3 ′ utr were described .
+these models have facilitated the identification of candidate oncogenes and tumor suppressor genes
+the development of genome - scale libraries of rnai reagents has facilitated loss - of - function approaches in mammalian cells that have identified candidate tumor - suppressor genes
+these cells ( herein termed tlm - hmecs ) are immortal but do not proliferate in the absence of extracellular matrix ( ecm )
+hmecs expressing htert and sv40 lt ( tlm - hmecs ) were cultured in mammary epithelial growth medium ( megm , lonza )
+ironically , rest has recently been described as both a tumor suppressor and an oncogene .
+rest is a transcription factor that represses neuronal genes in non - neural tissues , and plays a prominent tumor suppressor role in epithelial tissues
+inpp4b was identified out of a collection of rnais to give rise to anchorage - independent growth in human mammary epithelial cells ( hmec )
+rasa4/capri ( ras p21 protein activator 4 ) , a suppressor of epithelial cell transformation , functions as a ca ( 2 + )  -  dependent ras gtpase - activating 0protein ( gap ) to inactivate the ras - mapk pathway following a stimulus that elevates intracellular calcium
+alterations in oct - 4 expression promote differentiation and leads to the specification of ectodermal , endodermal or mesodermal primitive progenitors .
+expression of oct4 and sox2 has been shown to affect early differentiation genes such as sox - 17 expression .
+t47d , mcf - 7 , skbr3 , hela , and caco - 2 cells were transfected by electroporation as described previously .
+mcf7 or hela cells were electroporated as described previously to more than 95 % efficiency with psuper constructs against the various targets , and 72 hr later , protein expression was analyzed by sds - page and western blotting .
+it has been shown , however , that ubiquitination of cyclin d1 can efficiently take place following phosphorylation of another site , or without the apparent requirement for phosphorylation .
+apc - dependent degradation of cyclin d1 does not require threonine 286 phosphorylation , but the presence of a `` cyclin degradation box '' , however , as observed in the present study , threonine 286 phosphorylation is essential for proteolytic degradation of cyclin d1 in skin
+a few studies have reported the control of apc/c by genotoxic stress in mammalian cells , ionizing radiation was shown to activate the apc/c to degrade cyclin d1 , which triggers an immediate p53 - independent g1 arrest .
+in fact , genotoxic stresses such as ionizing radiation have been demonstrated to trigger rapid proteolysis of cyclin d1 , leading to p53 - independent g1 arrest .
+as p16ink4a blocks the inactivation of prb by cyclin - dependent kinases , and arf blocks the inactivation of p53 by mdm2 - mediated proteolysis , both have the capacity to cause cell cycle arrest .
+by inducing arf and ink4a in primary rodent fibroblasts , oncogenic ras expression leads to growth arrest and premature senescence .
+for the analysis of expression at different stages of differentiation , data were obtained for 43 mouse samples in stembase , originating from 16 studies with affymetrix moe430a microarray chips , as used in an oct4 expression profiling study covering murine escs , embryonal carcinoma cell lines , and several early differentiated lineages .
+we investigated the patterns of expression of the oct4 - associated data set in cells at different stages of differentiation , including embryonic carcinoma , embryonic stem cells , embryoid bodies , and various differentiated cell types , on the basis of transcriptomics data .
+besides these 28 oct4 - regulated genes , the oct4 - oetn included 8 more genes of a recently published list of oct4 - correlated transcripts expressed in escs .
+almost half ( 37 ) of the oct4 - oetn genes are known oct4 companions in escs , as their expression is directly regulated by or correlated with oct4 .
+expression of an activated form of ras proteins can induce senescence in some primary fibroblasts .
+the senescent state has been observed to be inducible in certain cultured cells in response to high level expression of genes such as the activated ras oncogene .
+activated ras will transform established lines , such as nih3t3 cells , it causes a senescence - like growth arrest in primary cells
+oncogenes such as h - rasv12 provoke a stress response in primary cells that results in an irreversible growth arrest , termed premature senescence .
+oct - 4 - dependent transcriptional networks have been described regulating self - renewal and pluripotency in human and mouse es and ec cells and in human mesenchymal cells .
+co - transfection of mirvec - mir - 204 and the renilla - 3 ′ utr plasmid was in hek293t cells with transit - lt1 transfection reagent ( mirus )
+this oxidative branch activity is elevated in comparison to many cancer cell lines , where the oxidative branch is typically reduced and accounts for < 20 % of the carbon flow through ppp .
+the downward laboratory went all the way from identifying gata2 as a novel synthetic lethal gene to validating it using kras - driven gem models .
+the expression of mutant k - ras alone is sufficient to drive malignant progression , whereas elimination of mutant k - ras from established tumors leads to tumor regression .
+the results of research represent a very important advance in the long - standing fight to conquer lung cancer .
+considerable evidence indicates that cancer cells develop dependencies on normal functions of certain genes that can potentially be exploited to improve therapeutic strategies .
+in the case of cell response to stress , cyclin d1 can be degraded through its binding to the anaphase - promoting complex and a rxxl sequence located in the nh2 - terminal part of the protein .
+in pc9 cells , loss of gata6 and/or hopx did not alter cell growth whereas reduction of gata2 and egfr inhibited cell viability as previously reported .
+it has been shown that the activities of many regulatory factors of checkpoints are lost or arrested during the process of tumorigenesis .
+a recent study identified the importance of the gata2 transcriptional network in ras oncogene - driven nsclc and suggested effective combinations targeting the proteasome together with il - 1 and rho - signalling .
+the anaphase promoting complex ( apc ) is responsible for the rapid degradation of cyclin d1 in cells irradiated with ionizing radiation .
+the researchers screened human nsclc cell lines carrying either wild - type or mutant kras with an rnai library against 7,000 human genes .
+recently , it was shown that gata2 fulfills such role in mutant kras induced nsclc .
+a number of studies have identified unbiased strategies to treat kras mutant cancers through rna interference screens , including inhibition of tak1 , stk33 , tbk1 , wt1 , gata2 , and bcl - xl/mek .
+this would also permit the use of inhibitors that target a single normal protein on which in particular the tumor cells depend as the result of a mutation in a defined pathway .
+the researchers combined available inhibitors selective for two of the pathways regulated by gata2 to treat mice with kras - driven nsclcs .
+in pc9 cells , loss of gata6 and/or hopx did not alter cell growth , whereas reduction of gata2 and egfr inhibited cell viability as previously reported .
+they identified that some genes involved in rho - related signaling pathways were occupied by gata2 in kras mutant but not wild - type tumor cells .
+the researchers combined available inhibitors selective for two of the pathways regulated by gata2 to treat mice with kras - driven nsclcs
+the in vivo data is still preliminary and other potential roadblocks such as drug resistance have not been examined .
+the gem model used in this study retains wild - type tp53 , suggesting that the tumors successfully treated with bortezomib and fasudil might not be as aggressive as those in most nsclc patients
+in spite of these caveats , the results of research represent a very important advance in the long - standing fight to conquer lung cancer
+we should consider the data of research as an exciting but early step in the long process of drug discovery .
+here , looking for agents that could specifically kill kras mutant cells , they found that knockdown of gata2 was synthetically lethal with kras mutation
+not surprisingly , gata2 knockdown in kras mutant cells resulted in a striking reduction of active gtp - bound rho proteins , including the downstream rock kinase
+in lung tumors , traf6 levels can become elevated by several mechanisms .
+gata2lox/lox sporadic infection of lung cells with adeno - cre virus gata2 loss induces regression of established tumors
+gata2 is also of considerable interest ; genetic ablation leads to tumor regression in mouse models of adenocarcinoma of the lung , and whereas this transcription factor may appear to be the least druggable of targets , its role in regulating the proteasome suggested therapeutic approaches that appear very promising
+the gata2 transcription factor , which is essential for oncogenic k - ras - dependent lung tumor development , binds to the traf6 promoter and enhances its expression .
+baf53 and β - actin subunits have been implicated in mammalian swi/snf - regulated binding to the chromatin/nuclear matrix .
+β - actin and actin - related proteins have been found in the various atp - dependent chromatin remodeling complexes
+human wts2 is a phosphorylation target of aurora - a kinase , and this phosphorylation plays a role in regulating centrosomal localization of hwts2 .
+similarly to plk1 , aurora - a activity is required for the enrichment or localisation of multiple centrosomal factors which have roles in maturation , including lats2 and cdk5rap2/cnn .
+changes in mir - 146a and mir - 146b expression and/or binding have also been implicated in the metastatic and proliferative response associated with the development of papillary thyroid carcinoma ( ptc ) and cervical cancer , ovarian cancer , breast cancer and pancreatic cancer and prostate cancer .
+additionally , loss of lats2 stimulated reduplication , an activity comparable to that observed when cyclin e is overexpressed in the absence of p53
+we found no obvious effect of lats2 - depletion on the aurora - a kinase activity when monitored by phosphorylation state of thr288 on aurora - a , suggesting that lats2 may be a downstream of aurora - a as mentioned in a previous report .
+mir - 143 , mir - 145 and mir - 34a have been shown to inhibit cell proliferation , and mir - 146a and mir - 21 to increase cell growth
+oct - 4 - dependent transcriptional networks have been described regulating self - renewal and pluripotency in human and mouse es and ec cells and in human mesenchymal cells .
+one study reports upregulation of this mir as revealed by qrt - pcr whereas a sequencing approach and microarray analysis point to a repression of mir - 133b in tumor tissue
+genetic and functional studies suggest that neomorphic idh mutations contribute to myeloid transformation , at least in part , by inhibiting tet enzymatic function .
+the up - regulation of mir - 24 has also been observed in gastric and cervical cancers
+in pc9 cells , loss of gata6 and/or hopx did not alter cell growth , whereas reduction of gata2 and egfr inhibited cell viability as previously reported .
+aurora - a is required for the correct localisation and function of centrosomal components like centrosomin , ndel1 , lats and tacc proteins
+centrosomes increase both in size and in microtubule - nucleating capacity just before mitotic entry .
+functional studies showed that , when introduced into cell lines , mir - 146a was found to promote cell proliferation in cervical cancer cells , which suggests that mir - 146a works as an oncogenic mirna in these cancers .
+with respect to lats2 , it has been reported that lats2 induces g2/m arrest and subsequent apoptotic cell death .
+the expression of mir - 146a has been found to be up - regulated in papillary thyroid carcinoma , anaplastic thyroid cancer and cervical cancer .
+the up - regulation of mir - 146a was also detected in cervical cancer tissues .
+similarly to plk1 , aurora - a activity is required for the enrichment or localisation of multiple centrosomal factors which have roles in maturation , including lats2 and cdk5rap2/cnn .
+necroptosis is also part of host defense against virus infection .
+necrotic death was augmented when caspase activities were compromised by either viral or chemical inhibitors .
+necrotic death was augmented when caspase activities were compromised by either viral or chemical inhibitors .
+intriguingly , in the presence of caspase inhibitors or following caspase - 8 gene ablation , death receptors have also recently been shown to induce necrotic cell death , a process which is dependent on the kinase activity of ripk1 and ripk3
+the cyclin - dependent kinase ( cdk ) inhibitor roscovitine has been reported to down - regulate the anti - apoptotic protein mcl - 1
+recent work in model systems and acute myelogenous leukemia has suggested that expression of mcl - 1 is a key determinant of resistance to abt - 737
+the up - regulation of mir - 146a was also detected in cervical cancer tissues .
+the expression of mir - 146a has been found to be up - regulated in cervical cancer .
+at the onset of mitosis , lats2 is activated by phosphorylation and plays important roles in g2/m transition in cultured cells
+lats2/kpm is homologous to lats1 and undergoes cell cycle - dependent phosphorylation
+ironically , rest has recently been described as both a tumor suppressor and an oncogene .
+in human epithelial cells rest has been described as a potent suppressor of malignant transformation and its deregulation has been associated with several non - neural tumors including breast and small cell lung cancers
+alterations in oct - 4 expression promote differentiation and leads to the specification of ectodermal , endodermal or mesodermal primitive progenitors .
+oct4 , a transcript of pou5f1 , plays a role in maintaining stem cell pluripotency , self - renewal and chromatin structure in stem cells , and promotes tumor growth in a dose - dependent manner .
+three programs , pictar , miranda , and targetscan , were used to predict the targets of mir - 21 .
+the genes that decreased 2 - fold or more were further screened for possible mir - 372 / 3 target sites using a local version of the targetscan algorithm .
+the recent reports demonstrated that the first eight nucleotides of the 5 ′ end of mirna could correlate with the efficient translational repression .
+mismatches near the 5 ′ end of the small rna completely abrogated translational suppression .
+oncogenic kras mutations are common in cancer .
+notably , c - raf has recently been found essential for development of k - ras - driven nsclcs .
