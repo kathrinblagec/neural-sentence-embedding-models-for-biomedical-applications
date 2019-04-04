@@ -28,7 +28,7 @@ PubmedCentral Open Access dataset: http://ftp.ncbi.nlm.nih.gov/pub/pmc
 
 Skip-thoughts: https://github.com/tensorflow/models/tree/master/research/skip_thoughts   
 Sent2vec including pre-trained models: https://github.com/epfml/sent2vec      
-fastText: https://github.com/facebookresearch/fastText
+fastText: https://github.com/facebookresearch/fastText    
 Paragraph Vector: https://github.com/klb3713/sentence2vec
 
 ### Parser
