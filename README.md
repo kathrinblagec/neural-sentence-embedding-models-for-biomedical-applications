@@ -2,10 +2,11 @@
 Contains datasets and code for the publication 'Neural sentence embedding models for semantic similarity estimation in the biomedical domain'; K. Blagec, H. Xu, A. Agibetov, M. Samwald
 
 ## Jupyter Notebooks
-Neural-sentence-embedding-models.ipynb
-String-based-similarity-measures.ipynb
-Results-overview.ipynb
-Datasets.ipynb
+* Overview of the used datasets: Datasets.ipynb    
+* Results for the neural embedding models: Neural-sentence-embedding-models.ipynb      
+* Results for the string-based similarity metrics: String-based-similarity-measures.ipynb  
+* Hybrid and supervised models: Supervised-and-hybrid-models.ipynb     
+* Results overview: Results-overview.ipynb    
 
 ## Benchmark set files
 
