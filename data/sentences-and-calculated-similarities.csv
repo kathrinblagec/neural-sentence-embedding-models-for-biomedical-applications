@@ -1,0 +1,300 @@
+,Sentence 1,Sentence 2,Annotation scores,PV-DM,PV-DBOW,Sent2vec,Skip-thoughts,Jaccard,Qgram,Skip-gram max pooling,CBOW max pooling,Hybrid model
+0,"It has recently been shown that Craf is essential for Kras G12D-induced NSCLC.
+","It has recently become evident that Craf is essential for the onset of Kras-driven non-small cell lung cancer.
+",4.0,0.6741647539606246,0.6712512963208578,0.7505126634096577,0.747896405778178,0.23529411764705882,0.23893805309734514,0.948378223940616,0.9949691593363471,2.971059187454353
+1,"The Bcl-2 inhibitor ABT-737 induces regression of solid tumors  and its derivatives are in the early clinical phase as cancer therapeutics; however, it targets Bcl-2, Bcl-XL, and Bcl-w, but not Mcl-1, which induces resistance against apoptotic cell death triggered by ABT-737.
+","Recently, it has been reported that ABT-737 is not cytotoxic to all tumors cells, and that chemoresistance to ABT-737 is dependent on appreciable levels of Mcl-1 expression, the one Bcl-2 family member it does not effectively inhibit.
+",3.0,0.6141957049270862,0.6079718022046793,0.8230469935046415,0.7574283298464868,0.175,0.21498371335504887,0.973111688790429,0.9775695555491591,3.464745533990923
+2,"Previous studies demonstrated that the decrease level of 5 hmC in tumors was due to the reduced expression of TET1/2/3 and IDH2 genes or tumor derived IDH1 and IDH2 mutations.
+","In addition, genetic and functional studies suggest that neomorphic IDH mutations contribute to myeloid transformation, at least in part, by inhibiting TET enzymatic function.
+",2.2,0.45786102057260797,0.41049947492000805,0.5187946382736076,0.5153557547668673,0.06060606060606061,0.11328125,0.9616262860497173,0.9355696186977331,1.9998916961901507
+3,"More recently, IDH mutations and resultant 2-hydroxyglutarate (2HG) production in leukemia cells were reported to induce global DNA hypermethylation through impaired TET2 catalytic function.
+","It has also been recently reported that mutations of the isocitrate dehydrogenase genes IDH1 and IDH2 can lead to the aberrant production of 2-hydroxyglutarate (2-HG), a metabolite that inhibits TET2 enzymatic activity, resulting in a hypermethylated promoter phenotype in acute myeloid leukemia (AML) tumors carrying IDH1/2 mutations.
+",3.2,0.673236487493381,0.6376728570561689,0.7728994966828423,0.7689765125526625,0.22727272727272727,0.2936046511627907,0.9729607177998943,0.9686905080524749,3.482299054091177
+4,"Recent in vitro studies using shRNA-based approaches have suggested a role for TET2 in regulating myeloid differentiation and in regulating stem/progenitor cell proliferation.
+","Two recent studies used RNAi-mediated Tet2 knock-down in vitro to suggest that TET2 depletion led to impaired hematopoietic differentiation and to preferential myeloid commitment.
+",3.2,0.5594155225487188,0.5177954928546626,0.6313254386815025,0.7761282468180428,0.21428571428571427,0.25925925925925924,0.966144633659926,0.9423296587213017,2.6964824793385525
+5,"Recently, it was reported that expression of IDH1R132H suppresses TET2 activity and the mutations of IDH1 and IDH2 genes occur in a mutual exclusive manner with that of TET2 gene in AML.
+","This large-scale study showed that IDH1/IDH2 mutations were mutually exclusive with inactivating TET2 mutations, suggesting that the two types of mutations had similar effects and were thus functionally redundant.
+",3.2,0.5082585106799604,0.46935166566668657,0.5469988226601173,0.5350733393161923,0.09375,0.16988416988416988,0.9587011412119171,0.862701623908392,2.1292737484773756
+6,"Recently, it was reported that expression of IDH1R132H suppresses TET2 activity and the mutations of IDH1 and IDH2 genes occur in a mutual exclusive manner with that of TET2 gene in AML 
+","The mechanism was clarified by yet another genomic survey, this time involving acute myelogenous leukemia (AML).
+",1.4,0.10437253565485659,0.045108898872433655,0.2928845961447144,0.22747803731950875,0.03333333333333333,0.04484304932735426,0.9144853592610912,0.8359279981563849,0.2182034295084314
+7,"expression of an activated form of Ras proteins can induce senescence in some primary fibroblasts.
+","When expressed alone in primary cells however, oncogenic Ras induces premature senescence, a putative tumour suppressor mechanism to protect from uncontrolled proliferation.
+",3.0,0.5712042113095976,0.4849561299715853,0.6266489468618774,0.6116882455095184,0.13043478260869565,0.2275132275132275,0.9629230841721692,0.9573847599364425,2.753098797628221
+8,"A high percentage of tumor cells that take on immortalized characteristics show telomerase activity and it has been suggested that hTERT expression may be one of the six key events common to cancer.
+","As a serine/threonine protein kinase, AKT functions by phosphorylating key intermediate signaling molecules, leading to increased cell metabolism, cell growth, cell survival, and cell invasiveness—all hallmarks of cancer.
+",1.4,0.22749164280934112,0.23881798005451835,0.3624432136401248,0.6071592335394834,0.05405405405405406,0.0946372239747634,0.9487341167900882,0.9155357965449823,1.0233050819143852
+9,"In view of the evidence that many tumors occurring in nature arise from the selection of cells with genetic and/or epigenetic changes.
+","The phenomena of neoplastic development and neoplastic transformation, whether they occur in vivo or in vitro, are thought to represent the accumulation of a series of genetic and epigenetic alterations that disrupt the normal processes of cell division and tissue integrity.
+",3.0,0.5527160640587182,0.45163676899380695,0.506171962734293,0.628773259482492,0.06060606060606061,0.10714285714285714,0.9634646288903991,0.9304920927389124,1.8883581832624365
+10,"The phenomena of neoplastic development and neoplastic transformation, whether they occur in vivo or in vitro, are thought to represent the accumulation of a series of genetic and epigenetic alterations that disrupt the normal processes of cell division and tissue integrity.
+","Neoplastic development represents cumulative genetic and epigenetic events leading to the emergence of cells that can attain a tumorigenic phenotype.
+",3.0,0.4841382103274999,0.46173124065634075,0.6122170383912168,0.760803730423026,0.12903225806451613,0.23161764705882354,0.9653072587978149,0.978172411888184,2.6387189415415833
+11,"Tumorigenesis is a multistage process that involves multiple cell types.
+","Previous studies have suggested a number of hallmark functions that need to be acquired for a cancer to generate, helping researchers understand the complexity in tumor progression in a way of logical, scientific manner.
+",1.0,0.4410555519025896,0.33296267223700543,0.4509785963072205,0.6138947567401567,0.0,0.048672566371681415,0.9249510270042123,0.9444114967067015,1.3399953555773632
+12,"Furthermore, transiently expressed exogenous LATS2 is localized to centrosomes.
+","LATS1 and LATS2 have been detected on interphase and mitotic centrosomes
+",3.0,0.506279354415516,0.5244900168053007,0.5081627684944543,0.3135817803363364,0.18181818181818182,0.16666666666666666,0.9623550894129228,0.7775469124715187,3.033035021802087
+13,"Since in S. cerevisiae DBF2 was shown to be associated with anaphase and/or telophase progression, we examined whether the deletion of the kinase would also affect cell cycle progression in N. crassa 
+","Taking into consideration the role that DBF2 homologs have been shown to play in cell cycle progression, predominant localization of DBF-2 in N.crassa is expected.
+",2.0,0.481207420210113,0.472941300460652,0.45286855973409196,0.3666344727107115,0.15625,0.20416666666666666,0.9611217577153166,0.8721375782508474,2.378083002012451
+14,"Several computational target prediction approaches, such as TargetScan, PicTar, miRanda, PITA, DIANA-microT and RNAhybrid, have been developed to predict target genes.
+","Three programs, PicTar, miRanda, and TargetScan , were used to predict the targets of miR-21.
+",2.4,0.7215720095538443,0.694792833834372,0.8066634127284793,0.5534908292573737,0.19047619047619047,0.2545454545454545,0.9698729345265351,0.9818096074349357,3.6915095437394765
+15,"Several lines of evidence suggest that the known principal RB pathway lesions in human tumors act in a mutual exclusive manner.
+","In individual human tumor specimens, these principal components of the pathway—RB-CDK4/6-p16INK4A—are reported to be targeted in a mutually exclusive manner.
+",3.4,0.5457347976655157,0.5379161925999086,0.5204766231469382,0.6962180913330999,0.24,0.292817679558011,0.9656990709899799,0.8747462128372702,2.819131697740822
+16,"The Retinoblastoma protein, pRb, was among the first recognized tumor suppressor proteins, and loss or repression of pRb function is thought to play a causative role in most human cancers.
+","Mutation of the retinoblastoma tumor susceptibility gene (RB1) is the rate-limiting step in the genesis of retinoblastoma and over 90% of human tumors exhibit reduced pRB function.
+",3.0,0.4797175408304936,0.486513762208636,0.7013385822081621,0.7971950664408062,0.15151515151515152,0.184,0.9681593361902932,0.8345398832203741,2.9293448469981556
+17,"For example, loss of, or functional alterations in, the two major tumor suppressor proteins pRB and p53 cause an up-regulation of ribosome biogenesis in cancer tissues.
+","E2F1 stabilizes p53 by inducing the expression of p19(p14)/ARF, an inhibitor of the mdm2 ubiquitin ligase that targets p53 for proteolysis.
+",2.0,0.4366642927532623,0.48772598232826264,0.4773752727553855,0.5957200025914462,0.03125,0.07894736842105263,0.9392161695160492,0.8854538625348696,1.534146591608156
+18,"Recently, miR-126 was identified as a metastasis suppressing miRNA that is downregulated in relapsing breast cancer, leukemia, and cervical cancer.
+","Subsequent reports showed that miR-126 targeted the oncogene IRS-1 (insulin receptor substrate-1) in breast cancer cells and miR-126 was downregulated in cervical cancer.
+",3.2,0.5795410032200526,0.5764856434074576,0.6535464952572634,0.8173487791061267,0.23076923076923078,0.2783018867924528,0.9658155177828412,0.9212416332840581,3.184825172397149
+19,"Recently, miR-126 was identified as a metastasis suppressing miRNA that is downregulated in relapsing breast cancer, leukemia, and cervical cancer.
+","MiR-155 is upregulated in several human tumors, such as chronic lymphocytic leukemia, melanoma, head and neck squamous cell carcinoma, clear-cell kidney cancer , hepatocellular carcinoma, lymphoma, thyroid carcinoma], breast cancer, colon cancer, cervical cancer, pancreatic cancer, and lung cancer.
+",2.0,0.711417635600647,0.6688524954502678,0.6397308391235181,0.7743202814050565,0.14285714285714285,0.16216216216216217,0.9757151458111426,0.8994127363684497,2.9735142669352133
+20,"Up-regulation of miR-24 has been observed in a number of cancers, including OSCC.
+","In addition, miR-24 is one of the most abundant miRNAs in cervical cancer cells, and is reportedly up-regulated in solid stomach cancers.
+",3.0,0.4594485943224401,0.4488213125610821,0.6570754216955025,0.7825817969839939,0.15789473684210525,0.19402985074626866,0.9601697356658069,0.9806513042293068,2.6752769165130417
+21,"MiR-223 seems to be a target molecule of TFs regulating granulopoiesis.
+","Feedback loops in which a miRNA-regulated transcription factor regulates the transcription of its cognate miRNA have been described in a number of animals.
+",1.2,0.48091736850725325,0.440834183831704,0.5607071786268225,0.5222400927319241,0.0,0.059880239520958084,0.9386575600075184,0.9711283693448758,1.880939879165446
+22,"Furthermore, a very recent study demonstrated the mechanism that specifies myeloid expression of miR-223 and proposed a unique “minicircuitry” comprised of miR-223 and transcription factors, NFI-A and CAAT enhancer-binding protein α (C/EBPα) 
+","miR-223 regulates granulopoiesis by a feedback mechanism and is modulated competitively by the transcription factors nuclear factor I/A (NFI-A) and CCAAT/enhancer binding protein-α (C/EBPα).
+",3.4,0.7591393029842096,0.7430835456852136,0.7539238487185547,0.47813071866733986,0.3333333333333333,0.30927835051546393,0.9813755437402348,0.9848344092721474,4.018991388390756
+23,"miR-223 regulates granulopoiesis by a feedback mechanism and is modulated competitively by the transcription factors nuclear factor I/A (NFI-A) and CCAAT/enhancer binding protein-α (C/EBPα) 
+","There is growing evidence from animal systems that miRNA-regulated transcription factors frequently regulate the transcription of their cognate miRNAs.
+",1.8,0.43330563093674507,0.35880286040218357,0.42486474253815043,0.32366806617146354,0.06451612903225806,0.1686746987951807,0.9292637160612955,0.8862093849102796,2.3634071982174625
+24,"In myelopoiesis, miR-223 has been shown to regulate granulocyte development in both humans and mice.
+","As shown previously, miR-223 is highly conserved, and its myeloid-specific expression is also well characterized in both human and mouse
+",3.6,0.5942910350389657,0.629300740575118,0.5244879749630441,0.44533188628453857,0.15,0.11801242236024845,0.9666610996935704,0.9606610074835437,2.916590797409013
+25,"To clarify the roles of miRNAs in erythropoiesis, four miRNAs were selected (miR-155, miR-221, miR-223, and miR-451) because their expression seems to be relevant to hematopoiesis.
+","In myelopoiesis, miR-223 has been shown to regulate granulocyte development in both humans and mice.
+",2.0,0.5300832001262433,0.4133401011509867,0.5420344704687887,0.6125119836807164,0.08333333333333333,0.10106382978723404,0.9702848682252571,0.9609614404454629,2.3380849526186633
+26,"We then sought to reassess the regulation of miR-223 in the exactly same experimental system adopted in the previous work 
+","Importantly, our reassessment revealed that this conserved promoter is probably active in the induction of miR-223 during All-trans retinoic acid (ATRA)-induced differentiation of the APL cell line, NB4 cells, which is the main experimental system adopted in the previous study
+",2.4,0.4612768855080148,0.47475129373443525,0.4898892164286996,0.6274763544674572,0.17647058823529413,0.25630252100840334,0.9533132269365853,0.9368532855651724,2.5663462336644542
+27,"Unique segments of homologous sequences in RIP1 and RIP3 (RIP homotypic interaction motifs, RHIMs)  were shown to mediate their interaction 
+","RIP1 was reported to interact with RIP3.
+",3.4,0.5564391217107334,0.4858723122227882,0.5424016613654815,0.24868157061421758,0.11764705882352941,0.10606060606060606,0.9517374614327154,0.8884326858164647,2.869255542798525
+28,"This form of necrosis, also termed necroptosis, requires the activity of receptor-interacting protein kinase 1 (RIP1) and its related kinase, RIP3 
+","TNF-mediated programmed necrosis typically involves the receptor-interacting serine-threonine kinases 1 and 3 (RIP1 and RIP3), as evidenced in human, mouse, and zebrafish cell lines, as well as in a murine sepsis model
+",3.0,0.5539228453417143,0.42281574642173275,0.6672424983025804,0.32473348452644385,0.2222222222222222,0.2261904761904762,0.9486386678474735,0.9652902865435746,2.7596986810622024
+29,"This form of necrosis, also termed necroptosis, requires the activity of receptor-interacting protein kinase 1 (RIP1) and its related kinase, RIP3 
+","Moreover, other reports have also shown that necroptosis could be induced via modulating RIP1 and RIP3.
+",4.0,0.5210579921082389,0.48309920044890997,0.5604025824609179,0.17629592505138011,0.16666666666666666,0.18604651162790697,0.9627776158676825,0.7868081934932766,2.768933685942974
+30,"Furthermore, ablation of both Erk1 and Erk2 impaired tumor development, whereas inactivation of either one alone had no effect.
+","Only concomitant ablation of ERK1 and ERK2 impairs tumor growth.
+",4.0,0.7179935896622358,0.604952787393442,0.7674829819916515,0.6913831951373179,0.25,0.23622047244094488,0.972739043972585,0.9345490985247388,3.5433911185621074
+31,"Importantly, the role of ERK phosphorylation in Kras-driven NSCLCs has been recently highlighted by the demonstration that ERK activity is essential for Kras-driven lung tumorigenesis.
+","As mentioned above, high ERK activity is crucial for the development of Kras-driven NSCLCs.
+",3.4,0.701728726397376,0.7457168894032589,0.8016891885429089,0.7729277842324208,0.2777777777777778,0.2441860465116279,0.9865504988750469,0.9854278608827187,3.671945364194446
+32,"Lung tumour formation in mice by oncogenic KRAS requires CRaf, but not BRaf.
+","The oncogenic activity of mutant Kras appears dependent on functional Craf  but not on Braf.
+",3.4,0.6525552482408095,0.7074933338680429,0.7933319981158706,0.7318033247175096,0.2857142857142857,0.22018348623853212,0.9712538763350773,0.9415254005019139,3.3157976828755658
+33,"The oncogenic activity of mutant Kras appears dependent on functional Craf, but not on Braf 
+","Notably, c-Raf has recently been found essential for development of K-Ras-driven NSCLCs
+",3.0,0.27429577746234446,0.2950137793618222,0.5067034845537547,0.33704106908086107,0.0,0.07518796992481203,0.9353158719057866,0.7467714303191307,2.145299231247307
+34,"The oncogenic activity of mutant Kras appears dependent on functional Craf.
+","Oncogenic KRAS mutations are common in cancer.
+",2.0,0.42569432210969393,0.40709631227922205,0.7087869978265089,0.6362290091152782,0.18181818181818182,0.21839080459770116,0.941997883492079,0.9346150004616738,2.784240270752818
+35,"BAF53 and β-actin subunits have been implicated in mammalian SWI/SNF-regulated binding to the chromatin/nuclear matrix.
+","In addition, Arp4-related BAF53 and β-actin are components of the human SWI/SNF complex and could play a role in its signal-regulated binding to the chromatin/nuclear matrix
+",3.8,0.6988390260063904,0.7160607558584101,0.6477197667836213,0.43404413513923346,0.38095238095238093,0.4233128834355828,0.9890502974818258,0.9636796915547605,3.9533981619295258
+36,"The mammalian Arp, BAF53 (BRG-associated factor), and β-actin were initially found as components of the mammalian SWI/SNF-like BAF chromatin-remodeling complex.
+","In addition, Arp4-related BAF53 and β-actin are components of the human SWI/SNF complex and could play a role in its signal-regulated binding to the chromatin/nuclear matrix
+",3.4,0.5576476418399178,0.5437229511430584,0.5719940273840403,0.3238316696427026,0.1935483870967742,0.2744186046511628,0.9722593101423389,0.951062826365292,3.06641006573107
+37,"All known GEFs reconfigure the nucleotide-binding pocket, often opening it by rearranging the switch regions.
+","A characteristic of GEFs is their strong preference for binding nucleotide-free over nucleotide-loaded GTPases.
+",2.0,0.4363839321817442,0.4415032700717589,0.5793490638902611,0.6104197218182082,0.17647058823529413,0.16883116883116883,0.9646721453588751,0.9592732706107855,2.706544954212358
+38,"In eukaryotic cells, small G-proteins are critically regulated by Guanine nucleotide Exchange Factors (GEFs) and GTPase Activating Proteins (GAPs).
+","Eukaryotic small G-proteins are often controlled through the balancing actions of GAPs and GEFs.
+",4.0,0.5278606811825657,0.5227045634851946,0.732383273854116,0.7567262067665839,0.2857142857142857,0.2411764705882353,0.9825600360545264,0.9792597523247893,3.5398566144590333
+39,"In a previous study in a mouse model of KRas-dependent pancreatic ductal adenocarcinoma, it was shown that oncogenic KRas induces nucleotide biosynthesis largely through the enhancement of the nonoxidative branch of the PPP.
+","Previous results showed that oncogenic Ras elevates ribonucleotide synthesis largely through the nonoxidative branch of the PPP.
+",3.2,0.6841090858153278,0.6337517238037238,0.6266930828531213,0.8447483260160039,0.24,0.3627450980392157,0.9626807203976124,0.8331785479226544,3.096293271077096
+40,"Importantly, RNAi knockdown of Gfpt1 reduced overall O-GlcNAcylation and blocked KrasG12DA-mediated tumor growth in vitro and in vivo.
+"," GFPT1 is the rate-limiting enzyme in the HBP and it has been identified as an important contributor to Kras-driven pancreatic ductal adenocarcinoma (PDAC)
+",2.2,0.2464301763021795,0.19377838357489668,0.24739471563016102,0.1961042539422369,0.034482758620689655,0.09859154929577464,0.9563143199679105,0.9193168627406159,1.5732868821815646
+41,"We, and others, have recently described the inducible-Kras*p53+/− (iKras*p53+/−) mouse model of pancreatic cancer, that allows tissue-specific, inducible and reversible expression of mutant Kras in combination with a loss of function allele of the tumor suppressor p53.
+","There is a certain variability in these findings: for instance, metastatic potential has been described by other groups using KC or iKras* mice combined with loss of function allele of p53.
+",3.0,0.5842074055940226,0.5339374143395431,0.5332335277995677,0.5981653079760026,0.1794871794871795,0.19063545150501673,0.9745159614175415,0.9245852209295977,2.491924534457997
+42,"The overall accuracy of our gene expression classifier was ~88%, and all T-ALL, TEL-AML1-positive, hyperdiploid and E2A-rearranged cases were correctly classified (i.e., 100% sensitivity) which resembled the data previously reported using other strategies for probe set selection and classifier construction.
+","A gene that warrants further studies is the erythropoietin receptor that is 7.4-fold higher expressed in TEL-AML1-positive cases compared to other precursor B-ALL cases confirming other gene expression classification studies.
+",2.0,0.36145048637013094,0.2155781085884803,0.5702846491932739,0.5284302657107799,0.13333333333333333,0.19602272727272727,0.9579298505411146,0.8764189864234803,2.0846357771493924
+43,"A gene that warrants further studies is the erythropoietin receptor that is 7.4-fold higher expressed in TEL-AML1-positive cases compared to other precursor B-ALL cases confirming other gene expression classification studies.
+","Another recent gene expression study of large numbers of cases provided support for the hypothesis that distinct leukemias are specified by each of the unique chromosomal abnormalities found in lymphoblastic leukemias.
+",0.6,0.3004846394307392,0.20046417572535716,0.4603776166492027,0.5197768739761482,0.08571428571428572,0.1465798045602606,0.9362776893286953,0.8541118525770406,1.328089306176473
+44,"MLL-FKBP and MLL-AF9 transformed cells showed persistent expression of Hox a7 and Hox a9 as well as the Hox cofactor Meis 1.
+","Regardless of the mechanism for transcriptional activation, increasing data suggest that Hox a7, Hox a9, and Meis1 are pivotal targets for MLL fusion protein-mediated transformation.
+",3.2,0.5893823596187253,0.5514137857557585,0.7973627896140137,0.5613507444114495,0.13793103448275862,0.16363636363636364,0.9632955080366885,0.9717803825349283,3.203747698241477
+45,"These findings were identical to the pattern of expression seen in human acute lymphoid and myeloid leukemias with MLL rearrangements.
+","These genes are consistently expressed in leukemias with MLL rearrangements.
+",3.6,0.6547013056490899,0.6808854614822498,0.7435764196966679,0.6860831476691468,0.2,0.29838709677419356,0.9615817156836335,0.9530584751592521,3.3463119802095473
+46,"miR-Vec constructs were described before, and Dnd1 open-reading frames were cloned as described into a pCS2-based CMV expression vector to contain a double carboxy-terminal HA tag.
+","The pMSCV-blast-miR plasmids, containing either hsa-miR-376a1 human miRNA or control miRNA (hTR-human telomerase RNA), were constructed as described previously.
+",1.0,0.46887823230297176,0.41834471312399385,0.4243544601453782,0.6724737113728495,0.05405405405405406,0.1328125,0.9488224657843755,0.9526431614955868,1.7241584182121628
+47,"For Sox11 repression by miR-204, Neuro-2a cells (ATCC) were grown on coverslips in 24-well plates for 24 h and then co-transfected with 500 ng of pCAG-GFP expression plasmid and either 500 ng of scrambled-miRVec or miR-204-miRVec expression plasmid containing the pre-miRNA of miR-204
+","Co-transfection of miRVec-miR-204  and the Renilla-3′ UTR plasmid was in HEK293T cells with TransIT-LT1 Transfection Reagent (Mirus)
+",1.8,0.5524256887306405,0.5266092719546417,0.6443026879863815,0.4925958518186703,0.2,0.1505016722408027,0.9489348361424864,0.9242931594456474,2.53140056061104
+48,"Consequently miRNAs have been demonstrated to act either as oncogenes (e.g., miR-155, miR-17−5p and miR-21)  or tumor suppressors (e.g., miR-34, miR-15a, miR-16−1 and let-7)
+","The extent to which miRNAs specifically affect metastasis remains unclear, as all the miRNAs reported to affect metastasis also exert potentially confounding influences on primary tumor development, apoptosis, and/or cell proliferation
+",2.8,0.2732316775662844,0.3234187420939671,0.49665414838350946,0.31885122112629427,0.04878048780487805,0.07317073170731707,0.9462132484755865,0.8307396889547592,2.471001320752096
+49,"Consequently miRNAs have been demonstrated to act either as oncogenes (e.g., miR-155, miR-17−5p and miR-21) or tumor suppressors (e.g., miR-34, miR-15a, miR-16−1 and let-7)
+","Given the extensive involvement of miRNA in physiology, dysregulation of miRNA expression can be associated with cancer pathobiology including oncogenesis, proliferation, epithelial-mesenchymal transition, metastasis, aberrations in metabolism, and angiogenesis, among others
+",2.8,0.3747282345062021,0.3342368856442156,0.5133461162756455,0.36112093874327067,0.0,0.08426966292134831,0.9460554340440938,0.898800288512292,2.3030181236283234
+50,"In many tumors, there is either overexpression of so-called oncogenic miRNAs (e.g., miR-155, miR-17−5p and miR-21)  or downregulation of tumor suppressor miRNAs (e.g., miR-34, miR-15a, miR-16−1 and let-7) 
+","miR-373 had been previously identified as a potential oncogene (together with miR-372) in testicular germ-cell tumors, although it has been proposed that the prometastatic and the oncogenic properties of this miRNA are due to the regulation of different genes (CD44 and LATS2, respectively)
+",1.8,0.45045605299462765,0.4355947861804743,0.6773186460373796,0.5762134170348858,0.10638297872340426,0.1436950146627566,0.9656333367075168,0.9469076022505019,2.955140053553526
+51,"To directly measure the effect of endogenous Dnd1 on the activity of endogenous miR-372 family, we used sensor molecules containing the luciferase gene under the control of either wild-type LATS2-3′UTR or a mutant in the 372 target sites 
+","The 3′UTRs of p27 and connexin-43 were PCR amplified from genomic DNA and cloned into pGL3 (Promega) downstream of the luciferase gene; constructs bearing the LATS2 3′UTR were described.
+",1.8,0.5486710610846021,0.5316692058226484,0.5541733676455851,0.34847069515513157,0.13953488372093023,0.1360544217687075,0.9531342068344689,0.9351413359745102,2.8375469233805806
+52,"These models have facilitated the identification of candidate oncogenes and tumor suppressor genes
+","The development of genome-scale libraries of RNAi reagents has facilitated loss-of-function approaches in mammalian cells that have identified candidate tumor-suppressor genes
+",2.6,0.5941253055969616,0.6409546745345162,0.5085206232577103,0.7027447795584361,0.25,0.3473053892215569,0.929746317684529,0.7874525813592803,2.344888698965777
+53,"These cells (herein termed TLM-HMECs) are immortal but do not proliferate in the absence of extracellular matrix (ECM) 
+","HMECs expressing hTERT and SV40 LT (TLM-HMECs) were cultured in mammary epithelial growth medium (MEGM, Lonza)
+",1.4,0.4721605250360227,0.49548202583136153,0.4656837250289155,0.27937736132860425,0.16666666666666666,0.12,0.9341286150561136,0.9466730913875034,1.5810226431452001
+54,"Ironically, Rest has recently been described as both a tumor suppressor and an oncogene.
+","REST is a transcription factor that represses neuronal genes in non-neural tissues, and plays a prominent tumor suppressor role in epithelial tissues
+",3.0,0.45427265056508187,0.39096070847198555,0.3874112389051397,0.34051643769660495,0.15789473684210525,0.15853658536585366,0.9431862455852439,0.8641024323570682,1.8613954779423345
+55,"INPP4B was identified out of a collection of RNAis to give rise to anchorage-independent growth in human mammary epithelial cells (HMEC)
+","RASA4/CAPRI (RAS p21 protein activator 4), a suppressor of epithelial cell transformation, functions as a Ca(2+)-dependent Ras GTPase-activating 0protein (GAP) to inactivate the Ras-MAPK pathway following a stimulus that elevates intracellular calcium
+",0.6,0.27380143569303783,0.34366713569626406,0.28737771437860293,0.224830624095359,0.07142857142857142,0.10759493670886076,0.941522364106986,0.9679607805087884,1.3811805350097703
+56,"Alterations in Oct-4 expression promote differentiation and leads to the specification of ectodermal, endodermal or mesodermal primitive progenitors.
+","Expression of OCT4 and SOX2 has been shown to affect early differentiation genes such as SOX-17 expression.
+",1.8,0.4272352549633102,0.43193931522211837,0.5295114282512885,0.6509157533236941,0.09523809523809523,0.1797752808988764,0.9221931229860603,0.9550250944415446,1.629798239921742
+57,"T47D, MCF-7, Skbr3, HeLa, and Caco-2 cells were transfected by electroporation as described previously.
+"," MCF7 or HeLa cells were electroporated as described previously to more than 95% efficiency with pSuper constructs against the various targets, and 72 hr later, protein expression was analyzed by SDS-PAGE and Western blotting.
+",3.0,0.5518677398355191,0.5789350458840784,0.5594452935868396,0.6002093699163912,0.12903225806451613,0.22115384615384615,0.9428808294274005,0.8863318122516111,2.9941687137286372
+58,"It has been shown, however, that ubiquitination of cyclin D1 can efficiently take place following phosphorylation of another site, or without the apparent requirement for phosphorylation.
+","APC-dependent degradation of cyclin D1 does not require threonine 286 phosphorylation, but the presence of a “cyclin degradation box”, however, as observed in the present study, threonine 286 phosphorylation is essential for proteolytic degradation of cyclin D1 in skin
+",3.0,0.5480998079333664,0.4588538824536221,0.5628876331170422,0.4097780571011183,0.12903225806451613,0.20915032679738563,0.956678219645663,0.9215961567559404,2.394570824064152
+59,"A few studies have reported the control of APC/C by genotoxic stress in mammalian cells, Ionizing radiation was shown to activate the APC/C to degrade cyclin D1, which triggers an immediate p53-independent G1 arrest.
+","In fact, genotoxic stresses such as ionizing radiation have been demonstrated to trigger rapid proteolysis of cyclin D1, leading to p53-independent G1 arrest.
+",3.8,0.7535492183892024,0.741248361752935,0.7750265212126148,0.8721649214975598,0.32142857142857145,0.37850467289719625,0.9787130691423884,0.9825987412525647,3.7455919023687
+60,"As p16INK4a blocks the inactivation of pRb by cyclin-dependent kinases, and Arf blocks the inactivation of p53 by Mdm2-mediated proteolysis, both have the capacity to cause cell cycle arrest.
+","By inducing Arf and Ink4a in primary rodent fibroblasts, oncogenic Ras expression leads to growth arrest and premature senescence.
+",2.4,0.5265854566527118,0.5337301861720692,0.5629859352698153,0.7140064499770025,0.06896551724137931,0.08368200836820083,0.9501888927749721,0.8985131801968783,2.001134336959261
+61,"For the analysis of expression at different stages of differentiation, data were obtained for 43 mouse samples in StemBase , originating from 16 studies with Affymetrix MOE430A microarray chips, as used in an Oct4 expression profiling study covering murine ESCs, embryonal carcinoma cell lines, and several early differentiated lineages.
+","We investigated the patterns of expression of the Oct4-associated data set in cells at different stages of differentiation, including embryonic carcinoma, embryonic stem cells, embryoid bodies, and various differentiated cell types, on the basis of transcriptomics data.
+",3.6,0.6267692615095877,0.5654505159062317,0.6940131593271063,0.7361352347311024,0.19148936170212766,0.26184538653366585,0.9703142975651993,0.898026341545393,2.889688565068804
+62,"Besides these 28 OCT4-regulated genes, the Oct4-OETN included 8 more genes of a recently published list of OCT4-correlated transcripts expressed in ESCs.
+"," Almost half (37) of the Oct4-OETN genes are known Oct4 companions in ESCs, as their expression is directly regulated by or correlated with Oct4.
+",2.8,0.5984169939045734,0.6168102865167655,0.787037815965775,0.7606478890739535,0.25,0.30386740331491713,0.9836364736888865,0.9686379744515321,3.9970197740255955
+63,"Expression of an activated form of Ras proteins can induce senescence in some primary fibroblasts.
+","The senescent state has been observed to be inducible in certain cultured cells in response to high level expression of genes such as the activated ras oncogene.
+",3.6,0.5934514810850193,0.6739814384243055,0.6235361458449484,0.6371143809053685,0.14285714285714285,0.18674698795180722,0.9710514189794685,0.9229234784305086,2.9913007627849737
+64,"Activated Ras will transform established lines, such as NIH3T3 cells, it causes a senescence-like growth arrest in primary cells 
+","Oncogenes such as H-RASV12 provoke a stress response in primary cells that results in an irreversible growth arrest, termed premature senescence.
+",3.0,0.6307606473328686,0.5948569716872573,0.6299966177244062,0.3362051636971744,0.21739130434782608,0.22580645161290322,0.9578553741412805,0.8792660405412962,3.029136773597573
+65,"Oct-4-dependent transcriptional networks have been described regulating self-renewal and pluripotency in human and mouse ES and EC cells and in human mesenchymal cells.
+","Co-transfection of miRVec-miR-204  and the Renilla-3′ UTR plasmid was in HEK293T cells with TransIT-LT1 Transfection Reagent (Mirus)
+",0.0,0.1613138261736878,0.15519189595436286,0.20360695704258416,0.19607882905108087,0.030303030303030304,0.08225108225108226,0.8959602914104006,0.9383161107488087,0.39376727272806455
+66,"This oxidative branch activity is elevated in comparison to many cancer cell lines, where the oxidative branch is typically reduced and accounts for <20% of the carbon flow through PPP.
+","The Downward laboratory  went all the way from identifying GATA2 as a novel synthetic lethal gene to validating it using Kras-driven GEM models.
+",0.0,0.03788700813081231,0.024398385289607943,0.2470226113922569,0.38568751245662636,0.0,0.01606425702811245,0.9294032722991314,0.8061521933461134,0.1928329457884299
+67,"The expression of mutant K-Ras alone is sufficient to drive malignant progression, whereas elimination of mutant K-Ras from established tumors leads to tumor regression.
+","The results of research  represent a very important advance in the long-standing fight to conquer lung cancer.
+",0.2,0.2611765376011576,0.26141796147983715,0.2400679348943797,0.36449058610450724,0.0,0.05963302752293578,0.9442715452354901,0.9278332116166892,0.7746409735765738
+68,"Considerable evidence indicates that cancer cells develop dependencies on normal functions of certain genes that can potentially be exploited to improve therapeutic strategies.
+"," In the case of cell response to stress, cyclin D1 can be degraded through its binding to the anaphase-promoting complex and a RXXL sequence located in the NH2-terminal part of the protein.
+",0.0,0.006528624054607392,0.02733911224569759,0.30103054450222094,0.4055361096905868,0.0,0.08527131782945736,0.9152144107774312,0.8927382622587112,0.12151541236623764
+69,"In PC9 cells, loss of GATA6 and/or HOPX did not alter cell growth whereas reduction of GATA2 and EGFR inhibited cell viability as previously reported.
+","It has been shown that the activities of many regulatory factors of checkpoints are lost or arrested during the process of tumorigenesis.
+",0.2,0.25414719074202874,0.23820362786400462,0.3012967788350185,0.4008813622029843,0.0,0.04854368932038835,0.9138088602160026,0.9022117448286212,0.41742973868080213
+70,"A recent study identified the importance of the GATA2 transcriptional network in RAS oncogene-driven NSCLC and suggested effective combinations targeting the proteasome together with IL-1 and Rho-signalling.
+","The anaphase promoting complex (APC) is responsible for the rapid degradation of cyclin D1 in cells irradiated with ionizing radiation.
+",0.2,0.25549448202069563,0.19280107682428835,0.32255014692907463,0.4878326584376006,0.0,0.0708955223880597,0.9198034699407605,0.8695739995350451,0.7885352019424072
+71,"The researchers screened human NSCLC cell lines carrying either wild-type or mutant KRAS with an RNAi library against 7,000 human genes.
+","Recently, it was shown that Gata2 fulfills such role in mutant Kras induced NSCLC.
+",1.8,0.2748091300356666,0.2705204760759919,0.48132746049041525,0.4957099518726713,0.13636363636363635,0.13548387096774195,0.9409497077568408,0.8741963886630474,1.4848288232751212
+72,"A number of studies have identified unbiased strategies to treat KRAS mutant cancers through RNA interference screens, including inhibition of TAK1, STK33, TBK1, WT1, GATA2, and BCL-XL/MEK.
+","This would also permit the use of inhibitors that target a single normal protein on which in particular the tumor cells depend as the result of a mutation in a defined pathway.
+",1.4,0.19620249615218766,0.018794313878942617,0.3515681515332975,0.4801536895624295,0.0,0.06439393939393939,0.9315367590768792,0.8850473936215831,0.5583849549863089
+73,"The researchers combined available inhibitors selective for two of the pathways regulated by GATA2 to treat mice with Kras-driven NSCLCs.
+","In PC9 cells, loss of GATA6 and/or HOPX did not alter cell growth, whereas reduction of GATA2 and EGFR inhibited cell viability as previously reported.
+",1.8,0.19789985327013163,0.2583482905043248,0.4684422584694347,0.4130575435905617,0.03333333333333333,0.0867579908675799,0.9476936605314811,0.8938637119315885,1.5040026194354184
+74,"They identified that some genes involved in RHO-related signaling pathways were occupied by GATA2 in KRAS mutant but not wild-type tumor cells.
+","The researchers combined available inhibitors selective for two of the pathways regulated by GATA2 to treat mice with Kras-driven NSCLCs
+",2.0,0.4298838882786139,0.4059397693217904,0.49525311727621957,0.3632390539616455,0.11538461538461539,0.140625,0.972581116732896,0.9524919412742744,2.5308900020827263
+75,"The in vivo data is still preliminary and other potential roadblocks such as drug resistance have not been examined.
+","The GEM model used in this study retains wild-type Tp53, suggesting that the tumors successfully treated with bortezomib and fasudil might not be as aggressive as those in most NSCLC patients
+",0.0,0.25294454343075334,0.2770902633741943,0.18049734307983106,0.1788920734268478,0.0,0.024390243902439025,0.935923198584832,0.8632831684258256,0.5618666821030338
+76,"In spite of these caveats, the results of research represent a very important advance in the long-standing fight to conquer lung cancer
+","We should consider the data of research as an exciting but early step in the long process of drug discovery.
+",0.8,0.3778296629998143,0.26647006197415946,0.3788199333112731,0.2687321801509067,0.09523809523809523,0.10967741935483871,0.9450218784161224,0.8278582523140493,1.500319882342371
+77,"Here, looking for agents that could specifically kill KRAS mutant cells, they found that knockdown of GATA2 was synthetically lethal with KRAS mutation
+","Not surprisingly, GATA2 knockdown in KRAS mutant cells resulted in a striking reduction of active GTP-bound RHO proteins, including the downstream ROCK kinase
+",2.2,0.36937462183713116,0.386548552472928,0.5579988945193803,0.4682829251899477,0.18518518518518517,0.19811320754716982,0.9671191161729314,0.8567836789476224,2.566661137731767
+78,"In lung tumors, TRAF6 levels can become elevated by several mechanisms.
+","GATA2lox/lox Sporadic infection of lung cells with Adeno-Cre virus GATA2 loss induces regression of established tumors
+",1.4,0.41349070830575996,0.45551181909662924,0.28410582543146806,0.19939410409700653,0.1,0.06918238993710692,0.9291010134601116,0.7644948565246453,1.6211025154643277
+79,"GATA2 is also of considerable interest; genetic ablation leads to tumor regression in mouse models of adenocarcinoma of the lung, and whereas this transcription factor may appear to be the least druggable of targets, its role in regulating the proteasome suggested therapeutic approaches that appear very promising 
+","The GATA2 transcription factor, which is essential for oncogenic K-ras-dependent lung tumor development, binds to the TRAF6 promoter and enhances its expression.
+",1.8,0.42231075801593587,0.46687567196855695,0.43526599712553227,0.18742173649751637,0.1282051282051282,0.16049382716049382,0.966723713619266,0.8642733020548186,2.3080269841029715
+80,"BAF53 and β-actin subunits have been implicated in mammalian SWI/SNF-regulated binding to the chromatin/nuclear matrix.
+","β-actin and actin-related proteins have been found in the various ATP-dependent chromatin remodeling complexes
+",3.0,0.6334936910474167,0.5850777251107627,0.5278615921310855,0.43874079376403263,0.1,0.1402439024390244,0.9514142879259758,0.9629570920552728,2.387285005494107
+81,"Human Wts2 is a phosphorylation target of Aurora-A kinase, and this phosphorylation plays a role in regulating centrosomal localization of hWts2.
+","Similarly to PLK1, Aurora-A activity is required for the enrichment or localisation of multiple centrosomal factors which have roles in maturation, including LATS2 and CDK5RAP2/Cnn.
+",1.2,0.5544185079184158,0.5771720366745333,0.6747082696040824,0.7644690208247671,0.08,0.19444444444444445,0.9456255188663111,0.9872292499082543,2.5411614102268985
+82,"Changes in miR-146a and miR-146b expression and/or binding have also been implicated in the metastatic and proliferative response associated with the development of papillary thyroid carcinoma (PTC) and cervical cancer, ovarian cancer, breast cancer and pancreatic cancer and prostate cancer.
+","Additionally, loss of LATS2 stimulated reduplication, an activity comparable to that observed when Cyclin E is overexpressed in the absence of p53
+",0.2,0.07475293207957137,0.16691844319832605,0.24213374671850663,0.1598893608337051,0.0,0.06927710843373494,0.9409003032630241,0.8449379151354556,0.8217788590207373
+83,"We found no obvious effect of LATS2-depletion on the Aurora-A kinase activity when monitored by phosphorylation state of Thr288 on Aurora-A, suggesting that LATS2 may be a downstream of Aurora-A as mentioned in a previous report.
+","miR-143, miR-145 and miR-34a have been shown to inhibit cell proliferation, and miR-146a and miR-21 to increase cell growth
+",0.2,0.15395161227195273,0.10770701693843106,0.19439015336424778,0.1002714231870537,0.0,0.04296875,0.9190082212568061,0.940893071610867,0.7926500854605507
+84,"Oct-4-dependent transcriptional networks have been described regulating self-renewal and pluripotency in human and mouse ES and EC cells and in human mesenchymal cells.
+","One study reports upregulation of this miR as revealed by qRT-PCR whereas a sequencing approach and microarray analysis point to a repression of miR-133b in tumor tissue
+",0.6,0.09751587591356549,0.18161360714271174,0.28583857482218633,0.29218369873416483,0.0,0.07782101167315175,0.9341620314547259,0.9174615129935704,0.9516954957628592
+85,"Genetic and functional studies suggest that neomorphic IDH mutations contribute to myeloid transformation, at least in part, by inhibiting TET enzymatic function.
+","The up-regulation of miR-24 has also been observed in gastric and cervical cancers
+",0.2,0.1294861640034452,0.0974893175588428,0.21991557964141367,0.160718748906591,0.0,0.042105263157894736,0.9236030034013011,0.8181885085877336,0.7725126662848076
+86,"In PC9 cells, loss of GATA6 and/or HOPX did not alter cell growth, whereas reduction of GATA2 and EGFR inhibited cell viability as previously reported.
+","Aurora-A is required for the correct localisation and function of centrosomal components like centrosomin, NDEL1, LATS and TACC proteins
+",0.2,0.23233813652826701,0.23656345167031506,0.239552523655603,0.2113240535228419,0.0,0.057777777777777775,0.8972053928368776,0.8207560875715888,0.6578819324030789
+87,"Centrosomes increase both in size and in microtubule-nucleating capacity just before mitotic entry.
+","Functional studies showed that, when introduced into cell lines, miR-146a was found to promote cell proliferation in cervical cancer cells, which suggests that miR-146a works as an oncogenic miRNA in these cancers.
+",0.0,0.032957326042825544,-0.005893203016225328,0.2352215190857116,0.31971100984167133,0.0,0.04,0.9065414044552905,0.9606955567480983,-0.3594460915118436
+88,"With respect to LATS2, it has been reported that LATS2 induces G2/M arrest and subsequent apoptotic cell death.
+","The expression of miR-146a has been found to be up-regulated in papillary thyroid carcinoma, anaplastic thyroid cancer  and cervical cancer.
+",0.2,0.15270933519830873,0.09713915830814185,0.3303700907893506,0.5140988765474425,0.0,0.04419889502762431,0.8999981345826833,0.889965587892807,-0.10315446938522399
+89,"The up-regulation of miR-146a was also detected in cervical cancer tissues.
+","Similarly to PLK1, Aurora-A activity is required for the enrichment or localisation of multiple centrosomal factors which have roles in maturation, including LATS2 and CDK5RAP2/Cnn.
+",0.2,0.14002382755701143,0.029389073368250414,0.2793247189604666,0.4097160437977514,0.0,0.05851063829787234,0.9084294862109277,0.9342952289502855,0.2960178445402004
+90,"Necroptosis is also part of host defense against virus infection.
+","Necrotic death was augmented when caspase activities were compromised by either viral or chemical inhibitors.
+",2.0,0.3665743463974334,0.35369736041515226,0.4301040146634435,0.3891771918046543,0.0,0.08396946564885496,0.9312469513160953,0.8996047058184554,1.2812443708028525
+91,"Necrotic death was augmented when caspase activities were compromised by either viral or chemical inhibitors.
+","Intriguingly, in the presence of caspase inhibitors or following caspase-8 gene ablation, death receptors have also recently been shown to induce necrotic cell death, a process which is dependent on the kinase activity of RIPK1 and RIPK3
+",2.8,0.46093252867294787,0.46189053883639036,0.49197377388729185,0.34040234733597735,0.14285714285714285,0.15546218487394958,0.9606571676426482,0.844208861894066,2.7443013277715522
+92,"The cyclin-dependent kinase (CDK) inhibitor roscovitine has been reported to down-regulate the anti-apoptotic protein Mcl-1
+","Recent work in model systems and acute myelogenous leukemia has suggested that expression of MCL-1 is a key determinant of resistance to ABT-737
+",2.0,0.40442162274834975,0.40696887719268254,0.4492437424615099,0.44151470617531896,0.06896551724137931,0.07389162561576355,0.9301954150068366,0.9528850466064617,1.7433397059592828
+93,"The up-regulation of miR-146a was also detected in cervical cancer tissues.
+","The expression of miR-146a has been found to be up-regulated in cervical cancer.
+",4.0,0.8109847454399989,0.794113104910525,0.8437131415296478,0.7989900092296546,0.36363636363636365,0.4177215189873418,0.9817776221000838,0.964919794212147,4.3076533644010535
+94,"At the onset of mitosis, LATS2 is activated by phosphorylation and plays important roles in G2/M transition in cultured cells
+","Lats2/Kpm is homologous to Lats1 and undergoes cell cycle-dependent phosphorylation
+",3.0,0.49150157492147406,0.5292530620710385,0.5017478308086739,0.4545932812883139,0.05263157894736842,0.15894039735099338,0.9511340801867931,0.8496840119324164,2.697935981263143
+95,"Ironically, Rest has recently been described as both a tumor suppressor and an oncogene.
+","In human epithelial cells REST has been described as a potent suppressor of malignant transformation and its deregulation has been associated with several non-neural tumors including breast and small cell lung cancers
+",3.2,0.638985308794109,0.6082972813768442,0.48073509562350347,0.35120880101356244,0.12,0.1407766990291262,0.9509746739562124,0.8667313399871506,2.700727056304739
+96,"Alterations in Oct-4 expression promote differentiation and leads to the specification of ectodermal, endodermal or mesodermal primitive progenitors.
+","OCT4, a transcript of POU5F1, plays a role in maintaining stem cell pluripotency, self-renewal and chromatin structure in stem cells, and promotes tumor growth in a dose-dependent manner.
+",1.6,0.3924830177682352,0.335902257055296,0.43384273352781244,0.6465252168975304,0.0,0.05128205128205128,0.9304241810227446,0.9410653478604007,1.1692350856792242
+97,"Three programs, PicTar, miRanda, and TargetScan , were used to predict the targets of miR-21.
+","The genes that decreased 2-fold or more were further screened for possible miR-372/3 target sites using a local version of the TargetScan algorithm.
+",2.4,0.441660167992353,0.41905503008290795,0.5821426400057147,0.5501391352486846,0.08333333333333333,0.1503267973856209,0.9394458075997392,0.9269863721885531,2.1404504353044853
+98,"The recent reports demonstrated that the first eight nucleotides of the 5′ end of miRNA could correlate with the efficient translational repression.
+","Mismatches near the 5′ end of the small RNA completely abrogated translational suppression.
+",3.2,0.575092556795791,0.6024550642767544,0.6788312397467237,0.6441934688439253,0.18181818181818182,0.22699386503067484,0.9615712815241186,0.9797794354678193,2.9298673996491438
+99,"Oncogenic KRAS mutations are common in cancer.
+","Notably, c-Raf has recently been found essential for development of K-Ras-driven NSCLCs.",1.8,0.297763231146252,0.28641419134005014,0.49613780156985654,0.4823795433934212,0.0,0.01818181818181818,0.9145685771221014,0.7542792032255824,1.7811072648285489
